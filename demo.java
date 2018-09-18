@@ -1,6 +1,10 @@
 class Demo
 {
 
+void add()
+{
+   a+b;
+} 
 void display()
 {
 ..........
