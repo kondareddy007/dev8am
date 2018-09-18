@@ -1,5 +1,10 @@
 class Demo
 {
+void sub()
+
+{
+  a-b;
+}
 
 void add()
 {
